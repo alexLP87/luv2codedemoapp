@@ -5,7 +5,6 @@
 <html>
 
 <head>
-    <title>List Customers</title>
     
     <!-- reference our style sheet -->
 
